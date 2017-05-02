@@ -1,5 +1,5 @@
-# labirinto_astar
-/*****LABIRINTO 1*****/<br>
+# Labirintos para Testes e resolução com algoritmo A*
+****LABIRINTO 1****<br>
 #####################<br>
 #R......#.....#.....#<br>
 #.#.###.#.###.#.#.#.#<br>
@@ -90,7 +90,7 @@
 19 11<br>
 20 11<br>
 6 queijos encontrados<br>
-/*****LABIRINTO 2*****/<br>
+****LABIRINTO 2****<br>
 ########################################<br>
 #R..............Q...........#...#......#<br>
 #.#.#.#.#.##.#.#.######.#.#...#.#.#.##.#<br>
